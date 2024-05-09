@@ -47,7 +47,7 @@ function setup() {
 
 function draw() {
   if (gameState == -1) {
-    start();
+    //start();
   } else if (gameState == 0) {
     base();
   } else if (gameState == 1) {

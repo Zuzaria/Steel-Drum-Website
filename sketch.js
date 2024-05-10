@@ -97,7 +97,7 @@ function flat() {
   rect(height / 2, width / 2, r);
   tint(0, 0, 0, fade)
   
-  if (fade<255) fadeAmount=5; 
+  if (fade<255) fadeAmount=15; 
  
   if (fade>0) fadeAmount=-1; 
  

@@ -99,7 +99,7 @@ function flat() {
   
   if (fade<255) fadeAmount=15; 
  
-  if (fade>0) fadeAmount=-1; 
+  if (fade>0) fadeAmount=-8; 
  
   fade += fadeAmount; 
   print(fade)
